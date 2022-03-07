@@ -5,7 +5,7 @@
 # Olá, Sou Lucas !!! 👽🚀
 <br/>
 
-## Sou Brasileiro desenvolvedor Front-end e UI design, busco me aprofunda nas bibliotecas, frameworks do javascript e nos pré-processadores css, atualmente atuo como freelancer e projetos pessoais.
+## Sou Brasileiro desenvolvedor Front-end e UI design, busco me aprofunda nas bibliotecas, frameworks do javascript e nos pré-processadores css, atualmente atuo como freelance e projetos pessoais.
 
 
 <br/>
