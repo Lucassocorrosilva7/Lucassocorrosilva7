@@ -3,7 +3,7 @@
 
 
 
-<div style="background-image:  linear-gradient(-45deg, #a78bfa, #6d28d9, #7c3aed);border-radius:5px;">
+<div style="background: #7c3aed">
 <p style="color:#f1f1f1;padding:1rem;">
 Sou Brasileiro desenvolvedor Front-end e UI design, busco me aprofunda nas bibliotecas, frameworks do javascript e nos pré-processadores css, atualmente atuo como freelance e projetos pessoais.
 </p>
