@@ -3,7 +3,7 @@
 
 
 
-<div style="background: #7c3aed">
+<div style="background: #000">
 <p style="color:#f1f1f1;padding:1rem;">
 Sou Brasileiro desenvolvedor Front-end e UI design, busco me aprofunda nas bibliotecas, frameworks do javascript e nos pré-processadores css, atualmente atuo como freelance e projetos pessoais.
 </p>
