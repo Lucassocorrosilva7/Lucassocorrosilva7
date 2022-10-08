@@ -1,7 +1,7 @@
 ## Oi ✌ Eu sou Lucas Silva.
 
 - 💻 Desenvolvedor Front-end
-- 📕 Formado em Segunrança da informação.
+- 📕 Formado em Segurança da informação.
 - 🔥 Pergunte-me sobre HTML, Javascript, CSS, Sass, React.js, posso te ajudar!
 - Mais em 👉🏻 [Portfólio](https://lucas-bio.netlify.app/)
 
