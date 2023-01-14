@@ -1,4 +1,4 @@
-## Oi, ✌ Eu sou Lucas Silva.
+## Oi, Eu sou Lucas.
 
 - 💻 Desenvolvedor Front-end
 - 📕 Formado em Segurança da informação.
