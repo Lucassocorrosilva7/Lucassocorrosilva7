@@ -1,6 +1,6 @@
 ## Oi, Eu sou Lucas.
 
-- 💻 Desenvolvedor Front-end
+- 💻 Desenvolvedor Full-Stack
 - 📕 Formado em Segurança da informação.
 - 🔥 Pergunte-me sobre HTML, Javascript, CSS, Sass, Less, React.js, posso te ajudar!
 
