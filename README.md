@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Full-Stack
 - 📕 Formado em Segurança da informação.
-- 🔥 Pergunte-me sobre React.js,Styled Components, Node, Laravel posso te ajudar!
+- 🔥 Pergunte-me sobre React.js, Styled Components, Node, Laravel posso te ajudar!
 
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucassocorrosilva7&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassocorrosilva7&layout=compact)](https://github.com/Lucassocorrosilva7/github-readme-stats)
